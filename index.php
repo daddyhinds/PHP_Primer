@@ -30,6 +30,7 @@ echo "<h1>My Name is: $name </h1>";
 echo '<button type="button" class="btn btn-success">ClicK Me!</button>';
 //echo '<button type="button" class="btn btn-dark">ClicK Me!</button>';
 echo '<button type="button" class="btn btn-primary">ClicK Me!</button>';
+echo '<a href="https://www.heroku.com" target ="_blank" class= "btn btn-danger">Heroku.com</a>';
 
 ?>
 <?php require 'includes/footer.php' ?>
